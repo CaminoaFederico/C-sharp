@@ -1,0 +1,9 @@
+C:\Users\LABD-08\documents\visual studio 2010\Projects\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\LABD-08\documents\visual studio 2010\Projects\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\LABD-08\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\Banco.exe
+C:\Users\LABD-08\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\Banco.pdb
+C:\Users\Fernando\Desktop\Programación\C#\Banco\Banco\obj\x86\Debug\Banco.exe
+C:\Users\Fernando\Desktop\Programación\C#\Banco\Banco\obj\x86\Debug\Banco.pdb
+C:\Users\Fernando\Desktop\Programación\C#\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Fernando\Desktop\Programación\C#\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Fernando\Desktop\Programación\C#\Banco\Banco\obj\x86\Debug\Banco.csprojResolveAssemblyReference.cache

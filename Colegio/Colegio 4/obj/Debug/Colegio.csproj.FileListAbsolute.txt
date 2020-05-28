@@ -1,0 +1,128 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Colegio\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\bin\Debug\Colegio.exe
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\bin\Debug\Colegio.pdb
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.datosdelalumno.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.datospersonal.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.datostutores.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.Form1.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.Properties.Resources.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.exe
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Colegio\Colegio\obj\Debug\Colegio.pdb
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\Colegio.exe.config
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.exe
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.pdb
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\Colegio.exe
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\Colegio.pdb
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\mscorlib.dll
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\es\mscorlib.resources.dll
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\normidna.nlp
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\normnfc.nlp
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\normnfd.nlp
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\normnfkc.nlp
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\bin\Debug\normnfkd.nlp
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.datosdelalumno.resources
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.datospersonal.resources
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.datostutores.resources
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.Form1.resources
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.Properties.Resources.resources
+G:\2016\Colegio\5 11\Analisis de Sistemas\Colegio\Colegio\obj\Debug\Colegio.csproj.GenerateResource.Cache
+C:\Users\alumno\Downloads\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\alumno\Downloads\Colegio\obj\Debug\Colegio.exe
+C:\Users\alumno\Downloads\Colegio\obj\Debug\Colegio.pdb
+D:\Colegio\bin\Debug\Colegio.exe.config
+D:\Colegio\obj\Debug\Colegio.exe
+D:\Colegio\obj\Debug\Colegio.pdb
+D:\Colegio\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+D:\Colegio\obj\Debug\Colegio.datosdelalumno.resources
+D:\Colegio\obj\Debug\Colegio.datospersonal.resources
+D:\Colegio\obj\Debug\Colegio.datostutores.resources
+D:\Colegio\obj\Debug\Colegio.form_inicio.resources
+D:\Colegio\obj\Debug\Colegio.Properties.Resources.resources
+D:\Colegio\obj\Debug\Colegio.csproj.GenerateResource.Cache
+D:\Colegio\bin\Debug\Colegio.exe
+D:\Colegio\bin\Debug\Colegio.pdb
+G:\Colegio\bin\Debug\Colegio.exe.config
+G:\Colegio\obj\Debug\Colegio.exe
+G:\Colegio\obj\Debug\Colegio.pdb
+G:\Colegio\bin\Debug\Colegio.exe
+G:\Colegio\bin\Debug\Colegio.pdb
+G:\Colegio\bin\Debug\mscorlib.dll
+G:\Colegio\bin\Debug\es\mscorlib.resources.dll
+G:\Colegio\bin\Debug\normidna.nlp
+G:\Colegio\bin\Debug\normnfc.nlp
+G:\Colegio\bin\Debug\normnfd.nlp
+G:\Colegio\bin\Debug\normnfkc.nlp
+G:\Colegio\bin\Debug\normnfkd.nlp
+G:\Colegio\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+G:\Colegio\obj\Debug\Colegio.datosdelalumno.resources
+G:\Colegio\obj\Debug\Colegio.datospersonal.resources
+G:\Colegio\obj\Debug\Colegio.datostutores.resources
+G:\Colegio\obj\Debug\Colegio.form_inicio.resources
+G:\Colegio\obj\Debug\Colegio.Properties.Resources.resources
+G:\Colegio\obj\Debug\Colegio.csproj.GenerateResource.Cache
+F:\Colegio\bin\Debug\Colegio.exe.config
+F:\Colegio\obj\Debug\Colegio.exe
+F:\Colegio\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+F:\Colegio\obj\Debug\Colegio.datosdelalumno.resources
+F:\Colegio\obj\Debug\Colegio.datospersonal.resources
+F:\Colegio\obj\Debug\Colegio.datostutores.resources
+F:\Colegio\obj\Debug\Colegio.form_inicio.resources
+F:\Colegio\obj\Debug\Colegio.Properties.Resources.resources
+F:\Colegio\obj\Debug\Colegio.csproj.GenerateResource.Cache
+F:\Colegio\bin\Debug\Colegio.exe
+F:\Colegio\bin\Debug\Colegio.pdb
+F:\Colegio\bin\Debug\MySql.Data.dll
+F:\Colegio\obj\Debug\Colegio.pdb
+D:\Colegio\bin\Debug\MySql.Data.dll
+D:\Colegio\bin\Debug\MySql.Data.xml
+E:\Colegio\bin\Debug\Colegio.exe.config
+E:\Colegio\obj\Debug\Colegio.exe
+E:\Colegio\obj\Debug\Colegio.pdb
+C:\Users\Guido\Desktop\proy esc\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.exe
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.pdb
+C:\Users\Guido\Desktop\proy esc\Colegio\bin\Debug\Colegio.exe
+C:\Users\Guido\Desktop\proy esc\Colegio\bin\Debug\Colegio.pdb
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.AgregarCuenta.resources
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.datosdelalumno.resources
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.datospersonal.resources
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.datostutores.resources
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.form_inicio.resources
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.Properties.Resources.resources
+C:\Users\Guido\Desktop\proy esc\Colegio\obj\Debug\Colegio.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Programación\Colegio III\bin\Debug\Colegio.exe.config
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.exe
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.pdb
+C:\Users\Fernando\Desktop\Programación\Colegio III\bin\Debug\Colegio.exe
+C:\Users\Fernando\Desktop\Programación\Colegio III\bin\Debug\Colegio.pdb
+C:\Users\Fernando\Desktop\Programación\Colegio III\bin\Debug\MySql.Data.xml
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.AgregarCuenta.resources
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.datosdelalumno.resources
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.datospersonal.resources
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.datostutores.resources
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.form_inicio.resources
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.BaseAlumnos.resources
+C:\Users\Fernando\Desktop\Programación\Colegio III\obj\Debug\Colegio.BaseTutores.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\bin\Debug\Colegio.exe.config
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.exe
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.pdb
+C:\Users\Fernando\Desktop\Programación\Colegio 4\bin\Debug\Colegio.exe
+C:\Users\Fernando\Desktop\Programación\Colegio 4\bin\Debug\Colegio.pdb
+C:\Users\Fernando\Desktop\Programación\Colegio 4\bin\Debug\MySql.Data.xml
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.AgregarCuenta.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.BaseAlumnos.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.BaseTutores.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.datosdelalumno.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.datospersonal.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.datostutores.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.form_inicio.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programación\Colegio 4\obj\Debug\Colegio.csproj.GenerateResource.Cache
